@@ -1,0 +1,5 @@
+omesh-ai-mini-bot/
+├── app.py
+├── requirements.txt
+├── .env
+├── README.md
